@@ -1,0 +1,22 @@
+
+body {
+    background-color: #f3e5f5; 
+  }
+  
+  .card {
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #e1bee7; 
+    border: 1px solid #ce93d8; 
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  
+
+  .card-title, .card-text {
+    color: #6a1b9a; 
+  }
+  
